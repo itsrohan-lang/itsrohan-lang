@@ -10,29 +10,15 @@
   <img src="https://img.shields.io/github/stars/rohanbalsaraf?label=Stars&style=flat-square&logo=github&color=181717" />
 </a>
 
-### Computer Engineer | Cloud & DevOps | Cybersecurity
+### Computer Engineer | Cloud & DevOps | Cloudsecurity
 
-I am a Computer Engineer proficient in **Go (Golang), Python, Machine Learning, and Cloud Technologies (AWS, GCP)**. My expertise bridges the gap between **Full-Stack Development** and **DevOps**, with a strong focus on building AI-powered developer tools and secure, scalable solutions.
-
-</div>
-
----
-
-## About
-
-- **Education:** Bachelor of Computer Engineering, Ajeenkya DY Patil School of Engineering.
-- **Experience:** Former Data Engineering Intern at **Shoption Pvt Ltd** (ETL Pipelines, Hadoop, PowerBI).
-- **Open Source:** Was maintainer for **Poco X5 Pro** device trees (LineageOS, Project Sakura).
-- **Certifications:** Google Cyber Security Foundation & AWS Cloud Computing.
-- **Contact:** [rohanbalsaraf9@gmail.com](mailto:rohanbalsaraf9@gmail.com).
-
----
+I am a Computer Engineer proficient in **Python, Machine Learning, and Cloud Technologies (AWS, GCP)**. My expertise bridges the gap between **Data Analytics** and **DevOps**
 
 ## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,python,cpp,java,js,html,css,aws,gcp,docker,linux,jenkins,grafana,prometheus,django,flask,fastapi,nodejs,react,mongodb,mysql,redis" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,aws,gcp,docker,linux,jenkins,grafana,prometheus,django,fastapi,nodejs,react,mongodb,mysql,redis" />
 
 </div>
 
