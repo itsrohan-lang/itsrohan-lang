@@ -28,7 +28,6 @@ I am a Computer Engineer proficient in **Python, Machine Learning, and Cloud Tec
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **[github-work-summary](https://github.com/rohanbalsaraf/github-work-summary)** | Go, Gemini AI, Bubble Tea | A professional CLI for generating AI-powered work summaries with an interactive TUI dashboard. |
 | **[Zenith Browser](https://github.com/rohanbalsaraf/zenith-browser.git)** | Rust, TypeScript, Js, React | A minimal, fast, and elegant web browser built with Rust. Zenith combines native WebView performance with a modern, distraction-free interface powered by React. |
 | **[Vuln Vault](https://github.com/rohanbalsaraf/VulnVault)**  | Node.js, Docker Swarm, AWS | A distributed network vulnerability scanner using Prometheus, Grafana, and Traefik for monitoring. |
 
