@@ -59,6 +59,7 @@ I build scalable backend architectures and robust data pipelines. Currently, I a
   <img src="https://github-readme-stats.vercel.app/api?username=itsrohan-lang&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&v=1" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsrohan-lang&theme=transparent&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" width="48%" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrohan-lang&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&v=1" alt="Top Languages" width="48%" />
 </p>
