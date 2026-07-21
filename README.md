@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=itsrohan-lang&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=itsrohan-lang&theme=radical&no-frame=true&no-bg=true&margin-w=15&v=1" alt="Trophies" />
   </a>
 </p>
 
@@ -39,7 +39,7 @@ I build scalable backend architectures and robust data pipelines. Currently, I a
   <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="48" height="48" alt="C++" /> &nbsp;
   <img src="https://cdn.simpleicons.org/rust/E3E3E3" width="48" height="48" alt="Rust" /> &nbsp;
   <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" height="48" alt="MySQL" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="48" height="48" alt="AWS" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" /> &nbsp;
   <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="48" height="48" alt="GCP" /> &nbsp;
   <img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48" alt="Docker" /> <br><br>
   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="48" height="48" alt="Kubernetes" /> &nbsp;
@@ -56,11 +56,11 @@ I build scalable backend architectures and robust data pipelines. Currently, I a
 ### Analytics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsrohan-lang&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsrohan-lang&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&v=1" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsrohan-lang&theme=transparent&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrohan-lang&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrohan-lang&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&v=1" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
