@@ -2,12 +2,12 @@
 
 # Rohan Balsaraf
 
-<img src="https://komarev.com/ghpvc/?username=rohanbalsaraf&style=flat-square&color=blue" alt="Visitor Badge" />
-<a href="https://github.com/rohanbalsaraf?tab=followers">
+<img src="https://komarev.com/ghpvc/?username=itsrohan-lang&style=flat-square&color=blue" alt="Visitor Badge" />
+<a href="https://github.com/itsrohan-lang?tab=followers">
   <img src="https://img.shields.io/github/followers/rohanbalsaraf?label=Followers&style=flat-square&logo=github&color=181717" />
 </a>
-<a href="https://github.com/rohanbalsaraf">
-  <img src="https://img.shields.io/github/stars/rohanbalsaraf?label=Stars&style=flat-square&logo=github&color=181717" />
+<a href="https://github.com/itsrohan-lang">
+  <img src="https://img.shields.io/github/stars/itsrohan-lang?label=Stars&style=flat-square&logo=github&color=181717" />
 </a>
 
 ### Computer Engineer | Cloud & DevOps | Cloudsecurity
@@ -18,7 +18,7 @@ I am a Computer Engineer proficient in **Python, Machine Learning, and Cloud Tec
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,aws,gcp,docker,linux,jenkins,grafana,prometheus,django,fastapi,nodejs,react,mongodb,mysql,redis" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,aws,gcp,docker,linux,mysql,redis,rust,hadoop,hive" />
 
 </div>
 
@@ -28,8 +28,8 @@ I am a Computer Engineer proficient in **Python, Machine Learning, and Cloud Tec
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **[Zenith Browser](https://github.com/rohanbalsaraf/zenith-browser.git)** | Rust, TypeScript, Js, React | A minimal, fast, and elegant web browser built with Rust. Zenith combines native WebView performance with a modern, distraction-free interface powered by React. |
-| **[Vuln Vault](https://github.com/rohanbalsaraf/VulnVault)**  | Node.js, Docker Swarm, AWS | A distributed network vulnerability scanner using Prometheus, Grafana, and Traefik for monitoring. |
+| **[Zenith Browser](https://github.com/itsrohan-lang/zenith-browser.git)** | Rust, TypeScript, Js, React | A minimal, fast, and elegant web browser built with Rust. Zenith combines native WebView performance with a modern, distraction-free interface powered by React. |
+| **[Vuln Vault](https://github.com/itsrohan-lang/VulnVault)**  | Node.js, Docker Swarm, AWS | A distributed network vulnerability scanner using Prometheus, Grafana, and Traefik for monitoring. |
 
 ---
 
@@ -37,11 +37,11 @@ I am a Computer Engineer proficient in **Python, Machine Learning, and Cloud Tec
 
 <div align="center">
 
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohanbalsaraf&theme=github_dark)](https://github.com/rohanbalsaraf)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsrohan-lang&theme=github_dark)](https://github.com/itsrohan-lang)
 
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohanbalsaraf&theme=github_dark)](https://github.com/rohanbalsaraf)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsrohan-lang&theme=github_dark)](https://github.com/itsrohan-lang)
 
-[![Streak Stats](https://streak-stats.demolab.com?user=rohanbalsaraf&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Streak Stats](https://streak-stats.demolab.com?user=itsrohan-lang&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
