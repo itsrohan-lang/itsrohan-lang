@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/itsrohan-lang?tab=followers">
-    <img src="https://img.shields.io/github/followers/rohanbalsaraf?label=Followers&style=for-the-badge&logo=github&color=2ea043" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/itsrohan-lang?label=Followers&style=for-the-badge&logo=github&color=2ea043" alt="Followers" />
   </a>
   <a href="https://github.com/itsrohan-lang">
     <img src="https://img.shields.io/github/stars/itsrohan-lang?label=Stars&style=for-the-badge&logo=github&color=e3b341" alt="Stars" />
