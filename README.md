@@ -19,18 +19,18 @@
   </a>
 </p>
 
-                                                                                                                                                                   <br>
+<br>
 
-                                                                                                                                                                   ### About Me
+### About Me
 
 I build scalable backend architectures and robust data pipelines. Currently, I am deep-diving into cloud-native technologies and constantly tweaking my Neovim setup to achieve the perfect workflow.
 
-                                                                                                                                         - **Focus:** Backend Development, Distributed Systems, Data Engineering
+- **Focus:** Backend Development, Distributed Systems, Data Engineering
 - **Current tools:** Python, Rust, C++, Kubernetes, Docker, Hadoop, Hive
 - **Learning & Building:** Constantly exploring new project ideas and system designs
 - **Ask me about:** System architecture, Linux, and backend optimization
 
-                                                                                               <br>
+<br>
 
 ### Tech Stack
 
