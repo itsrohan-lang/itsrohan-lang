@@ -95,7 +95,7 @@ tools_and_technologies:
 
 <p align="center">
   <a href="https://github.com/itsrohan-lang">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsrohan-lang&theme=radical&hide_border=true" width="600"/>
+    <img src="https://streak-stats.demolab.com/?user=itsrohan-lang&theme=radical&hide_border=true" width="600"/>
   </a>
 </p>
 
