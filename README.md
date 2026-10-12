@@ -41,11 +41,10 @@ current_focus:
 
 tools_and_technologies:
   languages: [Python, Rust, C++, Go, Bash]
-  frameworks: [FastAPI, Django]
   databases: [MySQL, PostgreSQL]
   devops: [Docker, Kubernetes, AWS, GCP]
-  bigdata: [Hadoop, Hive]
-  editors: [Neovim, VS Code]
+  bigdata: [Hadoop, Hive, AWS S3, AWS EMR, AWS StepFuntions, AWS EC2, Apache Airflow ,Spark]
+  editors: [Neovim, VS Code, Intellij]
 ```
 
 <br>
